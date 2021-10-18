@@ -4,6 +4,7 @@ public abstract class Cell implements IOwnable {
 	private String name;
 	protected Player proprietary;
 	private boolean available = true;
+	//holas
 
 	public String getName() {
 		return name;
